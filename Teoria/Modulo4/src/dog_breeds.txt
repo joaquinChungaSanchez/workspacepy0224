@@ -1,3 +1,4 @@
+Archivo por leer 1era forma
 Pug
 Jack Russell Terrier
 English Springer Spaniel
@@ -6,5 +7,5 @@ Staffordshire Bull Terrier
 Cavalier King Charles Spaniel
 Golden Retriever
 West Highland White Terrier
-Boxer
-Border Terrier
+Boxer \n
+\t Border Terrier
